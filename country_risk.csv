@@ -1,0 +1,10 @@
+country_code,risk_rating,sanctioned_flag
+GB,low,False
+US,high,True
+DE,low,False
+ES,low,False
+AE,low,False
+NG,medium,False
+IN,medium,False
+BR,low,False
+CN,high,True

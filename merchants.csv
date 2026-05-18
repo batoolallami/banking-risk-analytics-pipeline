@@ -1,0 +1,51 @@
+merchant_id,merchant_name,merchant_category,country_code
+1,Middleton Ltd,food,US
+2,Macias-Ward,gambling,IN
+3,"Blake, Jennings and Merritt",crypto,US
+4,Gross-Grant,crypto,NG
+5,"Davis, Gomez and Sandoval",electronics,ES
+6,Ponce LLC,crypto,IN
+7,"Murphy, Barr and Warren",travel,NG
+8,Miller PLC,travel,AE
+9,"Hughes, Price and Randolph",electronics,BR
+10,Simmons-Campos,retail,AE
+11,"Le, Leach and Rodriguez",gambling,NG
+12,Lee Group,electronics,IN
+13,"Case, Woods and Clark",gambling,CN
+14,Anderson Ltd,gambling,IN
+15,Perry LLC,electronics,DE
+16,Davis-Christian,travel,IN
+17,"Dean, Smith and Arnold",electronics,GB
+18,Clark-Wallace,retail,GB
+19,"Oconnor, Mueller and Harris",gambling,NG
+20,Wong-Collins,travel,DE
+21,Greene-Lopez,electronics,US
+22,Edwards-Rodriguez,food,CN
+23,Cannon-Norman,electronics,CN
+24,"West, Edwards and Thomas",gambling,GB
+25,Johnson-Roberson,electronics,AE
+26,Evans Inc,food,AE
+27,"Evans, Moyer and Mitchell",travel,BR
+28,Townsend-Andrade,crypto,GB
+29,Clarke Ltd,retail,US
+30,Fowler-Torres,travel,ES
+31,"Salas, Camacho and Madden",food,AE
+32,"Henderson, Martinez and Goodwin",food,AE
+33,"Potter, Hernandez and Walker",food,IN
+34,Hart-Acosta,crypto,DE
+35,Hanson-Stewart,electronics,CN
+36,"Booth, Peck and Harris",retail,AE
+37,"Schmidt, Campbell and Lucas",electronics,AE
+38,Douglas LLC,food,BR
+39,Jones-Mccullough,travel,US
+40,"Smith, Schneider and Martin",crypto,GB
+41,"Shaw, Davidson and Stevenson",crypto,US
+42,Knox LLC,gambling,ES
+43,Patel and Sons,retail,NG
+44,Love-Brown,crypto,NG
+45,Rodriguez-Woods,gambling,GB
+46,Campbell-Simmons,crypto,GB
+47,"Greene, Turner and Murphy",electronics,AE
+48,"Porter, Cuevas and Campbell",travel,CN
+49,"Spencer, Bentley and Reed",crypto,CN
+50,Thompson PLC,electronics,ES
