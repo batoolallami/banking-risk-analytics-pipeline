@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+.env
+*.json
+target/
+logs/
+dbt_packages/
 
 # Distribution / packaging
 .Python
